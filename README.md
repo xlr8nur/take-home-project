@@ -1,4 +1,3 @@
-```markdown
 # Take-Home Project
 
 This project is a data scraping pipeline developed with **Python** and **Scrapy**, storing data in **PostgreSQL** and **Redis** (for caching) using **Docker** and **Docker Compose**.
