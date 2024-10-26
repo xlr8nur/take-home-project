@@ -1,6 +1,7 @@
-# Take-Home Project
+# Take-Home-Project
 
-This project is a data scraping pipeline developed with **Python** and **Scrapy**, storing data in **PostgreSQL** and **Redis** (for caching) using **Docker** and **Docker Compose**.
+This project is to develop a scraping pipeline using Python and Scrapy, which extracts data from a JSON file, stores it in PostgreSQL database, and uses Redis for caching. The entire application containerized using Docker and orchestrated with Docker Compose.
+
 
 ## Requirements
 
