@@ -19,7 +19,7 @@ This project is to develop a scraping pipeline using Python and Scrapy, which ex
    Ensure Docker and Docker Compose are installed on your system.
 
 3. **Start Services**:
-   Run the following command to build and start services (Scrapy, PostgreSQL, Redis, and optionally MongoDB):
+   Run the following command to build and start services:
    ```bash
    docker-compose up --build
    ```
